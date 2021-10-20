@@ -1,6 +1,8 @@
 ### Hi, I'm Wadim :v:
 
-![Laptop](https://www.beckondelve.com/images/web.gif)
+<p align="center">
+  <img src="https://www.beckondelve.com/images/web.gif" />
+</p>
 
 :man_student: I'm currently studying Web Development at [DCI](https://digitalcareerinstitute.org/).
 

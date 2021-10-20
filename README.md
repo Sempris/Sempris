@@ -1,6 +1,6 @@
 ### Hi, I'm Wadim :v:
 
-![Laptop](https://cdn2.scratch.mit.edu/get_image/user/58750142_60x60.png)
+![Laptop](https://www.beckondelve.com/images/web.gif)
 
 :man_student: I'm currently studying Web Development at [DCI](https://digitalcareerinstitute.org/).
 

@@ -12,4 +12,4 @@
 
 ## Tools and Frameworks
 
-<img src="html.png" width="50" height="50"/> <img src="css.png" width="50" height="50"/> <img src="bootstrap.png" width="50" height="50"/> <img src="sass.png" width="50" height="50"/> <img src="js.png" width="50" height="50"/> <img src="vscode.png" width="50" height="50"/> <img src="git.png" width="50" height="50"/>
+<img src="html.png" width="40" height="40"/> <img src="css.png" width="40" height="40"/> <img src="bootstrap.png" width="40" height="40"/> <img src="sass.png" width="40" height="40"/> <img src="js.png" width="40" height="40"/> <img src="vscode.png" width="40" height="40"/> <img src="git.png" width="40" height="40"/>

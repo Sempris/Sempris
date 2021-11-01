@@ -1,7 +1,7 @@
 ## Hi, I'm Wadim :v:
 
 <p align="center">
-  <img src="https://telspy.net/images/contacts.gif" width="250" height="250"/>
+  <img src="programmer.gif" width="350" height="250"/>
 </p>
 
 :man_student: **I'm currently studying Web Development at [DCI](https://digitalcareerinstitute.org/).**

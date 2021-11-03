@@ -1,7 +1,7 @@
 ## Hi, I'm Wadim :v:
 
 <p align="center">
-  <img src="cat-programmer.gif" width="250" height="250"/>
+  <img src="cat-programmer.gif" width="250" height="265"/>
 </p>
 
 :man_student: **I'm currently studying Web Development at [DCI](https://digitalcareerinstitute.org/).**

@@ -4,7 +4,7 @@
   <img src="cat-programmer.gif" width="250" height="265"/>
 </p>
 
-:man_student: **I'm currently studying Web Development at [DCI](https://digitalcareerinstitute.org/).**
+:man_student: **I'm currently working for [fjol digital](https://fjol-digital.de/) as Web Development.**
 
 :briefcase: **Feel free to check some examples of my code, for instance [Randomizer](https://sempris.github.io/civ_randomizer/), [Kleimann Cafe](https://sempris.github.io/cafe-kleimann/), or [COVID-19 Info](https://covid19-info-sempris.netlify.app/) projects.**
 

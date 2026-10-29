@@ -14,6 +14,8 @@
 
 **[Movie Aggregator](https://github.com/Sempris/movie-aggregator)**
 
+**[Bus Factor Analyzer](https://github.com/Sempris/bus-factor-analyzer)**
+
 :hearts: **My hobbies are :computer: coding, :video_game: computer games, :game_die: tabletop games, :basketball: basketball, :ping_pong: ping-pong**
 
 ## Tools and Frameworks

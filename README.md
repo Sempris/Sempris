@@ -8,13 +8,13 @@
 
 :briefcase: **Feel free to check some examples of my code, for instance:**
 
-**[Randomizer](https://sempris.github.io/civ_randomizer/)**
+:game_die: **[Randomizer](https://sempris.github.io/civ_randomizer/)**
 
-**[COVID-19 Info](https://covid19-info-sempris.netlify.app/)**
+:mask: **[COVID-19 Info](https://covid19-info-sempris.netlify.app/)**
 
-**[Movie Aggregator](https://github.com/Sempris/movie-aggregator)**
+:projector: **[Movie Aggregator](https://github.com/Sempris/movie-aggregator)**
 
-**[Bus Factor Analyzer](https://github.com/Sempris/bus-factor-analyzer)**
+:oncoming_bus: **[Bus Factor Analyzer](https://github.com/Sempris/bus-factor-analyzer)**
 
 :hearts: **My hobbies are :computer: coding, :video_game: computer games, :game_die: tabletop games, :basketball: basketball, :ping_pong: ping-pong**
 

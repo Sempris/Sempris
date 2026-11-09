@@ -12,7 +12,7 @@
 
 :mask: **[COVID-19 Info](https://covid19-info-sempris.netlify.app/)**
 
-📽️: **[Movie Aggregator](https://github.com/Sempris/movie-aggregator)**
+📽️ **[Movie Aggregator](https://github.com/Sempris/movie-aggregator)**
 
 :oncoming_bus: **[Bus Factor Analyzer](https://github.com/Sempris/bus-factor-analyzer)**
 

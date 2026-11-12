@@ -6,6 +6,8 @@
 
 :gear: **I'm currently working for [leadity](https://leadity.de/) as Software Developer.**
 
+🌐 My **[full portfolio](https://sempris.github.io/portfolio-website/)** as a website.
+
 :briefcase: **Feel free to check some examples of my code, for instance:**
 
 :game_die: **[Randomizer](https://sempris.github.io/civ_randomizer/)**
